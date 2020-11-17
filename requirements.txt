@@ -1,0 +1,7 @@
+Django
+Pillow
+werkzeug
+social-auth-app-django
+django-extensions
+redis
+pyOpenSSL
